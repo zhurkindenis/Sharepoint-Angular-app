@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="README.md" Url="README.md" ReplaceContent="TRUE" />
+    <File Path=".gitignore" Url=".gitignore" ReplaceContent="TRUE" />
+    <File Path="App\Controller.js" Url="App/Controller.js" ReplaceContent="TRUE" />
+    <File Path="App\App.js" Url="App/App.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
